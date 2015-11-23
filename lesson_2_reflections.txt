@@ -12,3 +12,17 @@ Don't really know yet about the difference between the staging area and the
 repository.
 UPDATE: Maybe the staging area is a place to collect everything you later want
 to commit to the repository. That would make sense.
+
+
+3) How can you use the staging area to make sure you have one commit per logical
+ change?
+
+It is possible to add just the files you want to the staging area and make sure
+they are logical connected.
+
+
+4)What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+Branches would be helpful when i want to make changes but still want the actual
+version to stay untouched.
