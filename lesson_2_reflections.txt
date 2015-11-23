@@ -26,3 +26,9 @@ organized? How would branches help?
 
 Branches would be helpful when i want to make changes but still want the actual
 version to stay untouched.
+
+
+5) How do the diagrams help you visualize the branch structure?
+
+They help by showing me at which point a new branch was created and which commits
+each branch contains.
