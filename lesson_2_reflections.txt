@@ -32,3 +32,10 @@ version to stay untouched.
 
 They help by showing me at which point a new branch was created and which commits
 each branch contains.
+
+6) What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+The result of merging two branches together is one branch, containing all the
+changes made in these branches. That's exactly, what the the digram represents
+graphically.
