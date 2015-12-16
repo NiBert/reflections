@@ -39,3 +39,12 @@ the diagram the way we do?
 The result of merging two branches together is one branch, containing all the
 changes made in these branches. That's exactly, what the the digram represents
 graphically.
+
+7) What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+Pros: Git safes you a lot of work and time while still having a working version
+of your code
+Cons: While merging, Git could add some lines of code, which doesn't conflict but
+are not needed in the new version. This could e.g clutter the code with unneeded
+functions etc.
